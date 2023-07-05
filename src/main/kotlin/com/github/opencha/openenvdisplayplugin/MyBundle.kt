@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.opencha.openenvdisplayplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
